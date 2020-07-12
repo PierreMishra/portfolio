@@ -7,11 +7,5 @@
 * Performed montonic trend analysis to determine the annaul run-off trends in hydrologic unit 8 (HUC-8) sub basins of NC using USGS Waterwatch dataset
 * Overlapped dam and run-off shapefiles within NC boundary to observe the spatial distribution of dams with varying risks in sub basins with increasing or decreasing run-off trends.
 
- hello | wow 
---------------|-------------
-![](/images/project_1_2.png) | ![](/images/project_1_3.png) 
-
-![](/images/project_1_1.png)
-
 ## [Project 2: Global Lung Cancer Rates](https://github.com/PierreMishra/Lung_Cancer_Rates_ENV.710)
 
