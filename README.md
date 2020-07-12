@@ -9,10 +9,14 @@
 * Layered the dams and run-off analysis as shapefiles within NC boundary to observe the spatial distribution of dams with varying risks in sub basins with increasing or decreasing run-off trends.
 
 ## [Project 2: Global Lung Cancer Rates](https://github.com/PierreMishra/Lung_Cancer_Rates_ENV.710)
-* Wrangled and manipulated data from different CSV files into one dataframe
+* Wrangled and manipulated data from 6 CSV files into one dataframe
 * Explored environmental and socio-economic variables of 152 nations to analyze their effects on lung cancer rates.
 * Implemented ordinary least square (OLS) method to estimate the parameters of multiple linear regression models.
 * Developed three OLS models for all nations, high-income nations (with GDP per capita > $15,000) and low-income nations (with GDP per capita < $15,000)
 
+## [Project 3: Analyzing US Safe Drinking Water Act Violations since 1988](https://github.com/PierreMishra/Safe_Drinking_Water_Act_Violations_ENV.665)
+* 
+
+## [Project 4: Electric Vehicle Sales Forecasting](https://github.com/PierreMishra/EV_Sales_Forecasting_ENV.790)
 
 
