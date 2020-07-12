@@ -6,6 +6,9 @@
 * Investigated the stream discharge trends in North Carolina (NC) to find whether changing runoff pose a threat to dam structures
 * Performed montonic trend analysis to determine the annaul run-off trends in hydrologic unit 8 (HUC-8) sub basins of NC using USGS Waterwatch dataset
 * Overlapped dam and run-off shapefiles within NC boundary to observe the spatial distribution of dams with varying risks in sub basins with increasing or decreasing run-off trends.
+ |  
+--------------|-------------
+![](/images/project_1_2.png) | ![](/images/project_1_3.png) 
 
 ![](/images/project_1_1.png)
 
