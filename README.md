@@ -17,12 +17,12 @@
 * Performed poisson regresson using a log link function to analyze the temporal effect on frequency of acute-health based violations across states.
 * Mapped the results of poisson regression to compare SDWA violations with respect to time
 
-## [Project 2: Global Lung Cancer Rates](https://github.com/PierreMishra/Lung_Cancer_Rates_ENV.710)
+## [Project 4: Global Lung Cancer Rates](https://github.com/PierreMishra/Lung_Cancer_Rates_ENV.710)
 * Explored environmental and socio-economic variables of 152 nations from 6 separate CSVs to analyze their effects on lung cancer rates.
 * Implemented ordinary least square (OLS) method to estimate the parameters of multiple linear regression models.
 * Developed three OLS models for all nations, high-income nations (with GDP per capita > $15,000) and low-income nations (with GDP per capita < $15,000)
 
-## [Project 4: Electric Vehicle Sales Forecasting](https://github.com/PierreMishra/EV_Sales_Forecasting_ENV.790)
+## [Project 5: Electric Vehicle Sales Forecasting](https://github.com/PierreMishra/EV_Sales_Forecasting_ENV.790)
 * Used time series forecasting to analyze national targets of electric vehicle sales of the major global EV players, mainly Japan
 * Employed various forecasting models such as state-space models, ARIMA, exponential smoothing etc. to show their applicability to long-term predictions
 
