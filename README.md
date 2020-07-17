@@ -5,7 +5,7 @@
 * Performed ordinal logistic regression on logged predictor variables to determine the effects of the structure of a dam on its classified safety hazard
 * Investigated the stream discharge trends in North Carolina (NC) to find whether changing runoff pose a threat to dam structures
 * Performed montonic trend analysis to determine the annaul run-off trends in hydrologic unit 8 (HUC-8) sub basins of NC using USGS Waterwatch dataset
-* Layered the dams and run-off analysis as shapefiles within NC boundary to observe the spatial distribution of dams with varying risks in sub basins with increasing or decreasing run-off trends.
+* Layered the dams and run-off analysis as shapefiles within NC boundary to observe the spatial distribution of dams with varying risks, in sub basins with increasing or decreasing run-off trends.
 
 ## Project 2: Water Budget web application for the Internet of Water project
 * Query RDF databases of water budget frameworks across states using SPARQL (Structured Protocol and RDF Query Language)
