@@ -1,5 +1,3 @@
-title: Analytics & Programming Portfolio
-
 ## [Project 1: US Dam Safety & HUC-8 Runoff](https://github.com/PierreMishra/US_Dam_Safety_ENV.872)
 * Explored physical features for 90,000 dams that can predict dam safety using National Inventory of Dams dataset by US Army Corps
 * Performed ordinal logistic regression on logged predictor variables to determine the effects of the structure of a dam on its classified safety hazard
