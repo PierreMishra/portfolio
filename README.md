@@ -11,7 +11,7 @@
   <img src="./images/project_1_3.png" align="center" height="40%" width="40%" >
 </p>
 
-<img src="./images/project_1_1.png" align="center">
+<img src="./images/project_1_1.png" align="center" height="120%" width="120%">
 
 ## Project 2: Water Budget web application for the Internet of Water project 
 #### Fullstack web development (R Shiny, Javascript, HTML, CSS) 
