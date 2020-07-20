@@ -14,7 +14,7 @@
 <img src="./images/project_1_1.png" align="center" height="100%" width="100%">
 
 ## Project 2: Water Budget web application for the Internet of Water project 
-#### Fullstack web development (R Shiny, Javascript, HTML, CSS) 
+#### Fullstack web development (R Shiny, Javascript, HTML, CSS, SPARQL) 
 * Query RDF databases of water budget frameworks across states using SPARQL (Structured Protocol and RDF Query Language)
 * Develop an interactive tool to visualize different components, estimation methods, parameters and data sources of water budget framework across different states
 
