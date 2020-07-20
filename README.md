@@ -5,9 +5,11 @@
 * Performed montonic trend analysis to determine the annaul run-off trends in hydrologic unit 8 (HUC-8) sub basins of NC using USGS Waterwatch dataset
 * Layered the dams and run-off analysis as shapefiles within NC boundary to observe the spatial distribution of dams with varying risks, in sub basins with increasing or decreasing run-off trends.
 
-<img src="/images/project_1_2.png" align="left" height="35%" width="35%" >
-<img src="/images/project_1_3.png" align="left" height="35%" width="35%" >
-<br>
+<p>
+  <img src="/images/project_1_2.png" align="left" height="35%" width="35%" >
+  <img src="/images/project_1_3.png" align="left" height="35%" width="35%" >
+</p>
+
 
 ## Project 2: Water Budget web application for the Internet of Water project
 * Query RDF databases of water budget frameworks across states using SPARQL (Structured Protocol and RDF Query Language)
