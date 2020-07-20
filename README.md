@@ -1,5 +1,5 @@
 ## [Project 1: US Dam Safety & HUC-8 Runoff](https://github.com/PierreMishra/US_Dam_Safety_ENV.872)
-#### Logistic regression & trend analysis
+#### Logistic regression & trend analysis (R)
 * Explored physical features for 90,000 dams that can predict dam safety using National Inventory of Dams dataset by US Army Corps
 * Performed ordinal logistic regression on logged predictor variables to determine the effects of the structure of a dam on its classified safety hazard
 * Investigated the stream discharge trends in North Carolina (NC) to find whether increasing runoff trends pose a threat to dam structures
@@ -13,9 +13,10 @@
 
 <img src="./images/project_1_1.png" align="center" height="80%" width="80%" >
 
-## Project 2: Water Budget web application for the Internet of Water project (
+## Project 2: Water Budget web application for the Internet of Water project 
+#### Fullstack web development (R Shiny, Javascript, HTML, CSS) 
 * Query RDF databases of water budget frameworks across states using SPARQL (Structured Protocol and RDF Query Language)
-* Develop an interactive tool using R Shiny, Javascript (D3.js), HTML and CSS to visualize different components, estimation methods, parameters and data sources of water budget framework across different states
+* Develop an interactive tool to visualize different components, estimation methods, parameters and data sources of water budget framework across different states
 
 
 ## [Project 3: Analyzing US Safe Drinking Water Act Violations since 1988](https://github.com/PierreMishra/Safe_Drinking_Water_Act_Violations_ENV.665)
