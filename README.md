@@ -7,7 +7,8 @@
 
 ## Project 2: Water Budget web application for the Internet of Water project
 * Query RDF databases of water budget frameworks across states using SPARQL (Structured Protocol and RDF Query Language)
-* Develop an interactive tool using R Shiny, Javascript (D3.js) and CSS to visualize different components, estimation methods, parameters and data sources of water budget framework across different states
+* Develop an interactive tool using R Shiny, Javascript (D3.js), HTML and CSS to visualize different components, estimation methods, parameters and data sources of water budget framework across different states
+
 
 ## [Project 3: Analyzing US Safe Drinking Water Act Violations since 1988](https://github.com/PierreMishra/Safe_Drinking_Water_Act_Violations_ENV.665)
 * Used Bayesian statisitics to study factors associated to SDWA violations and frequency of such violations in 50 states
