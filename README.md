@@ -10,7 +10,7 @@
   <img src="/images/project_1_3.png" align="center" height="50%" width="50%" >
 </p>
 
-<img src="/images/project_1_1.png" align="center" height="25%" width="25%" >
+<img src="/images/project_1_1.png" align="center" height="50%" width="50%" >
 
 ## Project 2: Water Budget web application for the Internet of Water project
 * Query RDF databases of water budget frameworks across states using SPARQL (Structured Protocol and RDF Query Language)
