@@ -7,7 +7,7 @@
 * Layered the dams and run-off analysis as shapefiles within NC boundary to observe the spatial distribution of dams with varying risks, in sub basins with increasing or decreasing run-off trends.
 
 <p>
-  
+  <img src="./images/project_1_2.png" align="center" height="50%" width="50%" >
   <img src="./images/project_1_3.png" align="center" height="40%" width="40%" >
 </p>
 
