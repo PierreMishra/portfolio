@@ -31,6 +31,8 @@
 * Performed poisson regresson using a log link function to analyze the temporal effect on frequency of acute-health based violations across states.
 * Mapped the results of poisson regression to compare SDWA violations among states with respect to time
 
+<iframe width="50%" height="50%" frameborder="0" scrolling="no" src="//plotly.com/~prashankpm/1.embed"></iframe>
+
 ## [Project 4: Global Lung Cancer Rates](https://github.com/PierreMishra/Lung_Cancer_Rates_ENV.710)
 * Explored environmental and socio-economic variables of 152 nations from 6 separate CSVs to analyze their effects on lung cancer rates.
 * Implemented ordinary least square (OLS) method to estimate the parameters of multiple linear regression models.
