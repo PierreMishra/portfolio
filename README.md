@@ -39,7 +39,7 @@ helooooooo5
 * Developed three OLS models for all nations, high-income nations (with GDP per capita > $15,000) and low-income nations (with GDP per capita < $15,000)
 
 <p>
-  <img src="./images/cancer_1.png" align="center" height="45%" width="45%" >
+  <img src="./images/cancer_1.png" align="center" height="50%" width="45%" >
   <img src="./images/cancer_2.png" align="center" height="50%" width="50%" >
 </p>
 
