@@ -7,6 +7,7 @@
 * Integrate D3 visualizations by states, components and data sources based on user input into the web app using R Shiny and HTML
 * Stylize the webapp using Javascript and CSS
 
+<img src="./images/iow_waterbudget_gif.gif" align="center" height="100%" width="100%" >
 
 ## [Project 2: US Dam Safety & HUC-8 Runoff](https://github.com/PierreMishra/US_Dam_Safety_ENV.872)
 #### Logistic regression & trend analysis (R)
