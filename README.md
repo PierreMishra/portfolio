@@ -5,6 +5,7 @@
 * Query RDF databases of water budget frameworks across states using SPARQL (Structured Protocol and RDF Query Language) to feed data into the web app
 * Wrangle nested JSON file obtained through SPARQL and curated reproducible D3 interactive trees in Javascript
 * Integrate D3 visualizations by states, components and data sources based on user input into the web app using R Shiny and HTML
+* Dynamically summarize flow information of each component and link each water budget term to its unique resource identifier via hyperlink
 * Stylize the webapp using Javascript and CSS
 
 <img src="./images/iow_waterbudget_gif.gif" align="center" height="100%" width="100%" >
