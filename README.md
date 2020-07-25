@@ -1,4 +1,14 @@
-## [Project 1: US Dam Safety & HUC-8 Runoff](https://github.com/PierreMishra/US_Dam_Safety_ENV.872)
+
+## Project 1: Water Budget web application for the Internet of Water project 
+#### Fullstack web development (R Shiny, Javascript, HTML, CSS, SPARQL) 
+* Develop an interactive tool to visualize different components, estimation methods, parameters and data sources of water budget framework across different states
+* Query RDF databases of water budget frameworks across states using SPARQL (Structured Protocol and RDF Query Language) to feed data into the web app
+* Wrangle nested JSON file obtained through SPARQL and curated reproducible D3 interactive trees in Javascript
+* Integrate D3 visualizations by states, components and data sources based on user input into the web app using R Shiny and HTML
+* Stylize the webapp using Javascript and CSS
+
+
+## [Project 2: US Dam Safety & HUC-8 Runoff](https://github.com/PierreMishra/US_Dam_Safety_ENV.872)
 #### Logistic regression & trend analysis (R)
 * Explored physical features for 90,000 dams that can predict dam safety using National Inventory of Dams dataset by US Army Corps
 * Performed ordinal logistic regression on logged predictor variables to determine the effects of the structure of a dam on its classified safety hazard
@@ -12,12 +22,6 @@
 </p>
 
 <img src="./images/project_1_1.png" align="center" height="100%" width="100%">
-
-## Project 2: Water Budget web application for the Internet of Water project 
-#### Fullstack web development (R Shiny, Javascript, HTML, CSS, SPARQL) 
-* Query RDF databases of water budget frameworks across states using SPARQL (Structured Protocol and RDF Query Language)
-* Develop an interactive tool to visualize different components, estimation methods, parameters and data sources of water budget framework across different states
-
 
 ## [Project 3: Analyzing US Safe Drinking Water Act Violations since 1988](https://github.com/PierreMishra/Safe_Drinking_Water_Act_Violations_ENV.665)
 * Used Bayesian statisitics to study factors associated to SDWA violations and frequency of such violations in 50 states
