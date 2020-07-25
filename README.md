@@ -19,11 +19,11 @@
 * Layered the dams and run-off analysis as shapefiles within NC boundary to observe the spatial distribution of dams with varying risks, in sub basins with increasing or decreasing run-off trends.
 
 <p>
-  <img src="./images/project_1_2.png" align="center" height="40%" width="40%" >
-  <img src="./images/project_1_3.png" align="center" height="40%" width="40%" >
+  <img src="./images/dam_1.png" align="center" height="40%" width="40%" >
+  <img src="./images/dam_2.png" align="center" height="40%" width="40%" >
 </p>
 
-<img src="./images/project_1_1.png" align="center" height="100%" width="100%">
+<img src="./images/dam_3.png" align="center" height="100%" width="100%">
 
 ## [Project 3: Analyzing US Safe Drinking Water Act Violations since 1988](https://github.com/PierreMishra/Safe_Drinking_Water_Act_Violations_ENV.665)
 * Used Bayesian statisitics to study factors associated to SDWA violations and frequency of such violations in 50 states
@@ -37,8 +37,8 @@
 * Developed three OLS models for all nations, high-income nations (with GDP per capita > $15,000) and low-income nations (with GDP per capita < $15,000)
 
 <p>
-  <img src="./images/project_2_2.png" align="center" height="40%" width="40%" >
-  <img src="./images/project_2_1.png" align="center" height="50%" width="50%" >
+  <img src="./images/cancer_1.png" align="center" height="40%" width="40%" >
+  <img src="./images/cancer_2.png" align="center" height="50%" width="50%" >
 </p>
 
 ## [Project 5: Electric Vehicle Sales Forecasting](https://github.com/PierreMishra/EV_Sales_Forecasting_ENV.790)
