@@ -1,4 +1,4 @@
-helooooooo3
+helooooooo4
 ## Project 1: Water Budget web application for the Internet of Water project (in progress)
 #### Fullstack web development (R Shiny, Javascript, HTML, CSS, SPARQL) 
 * Develop an interactive tool to visualize the relationship among different components, estimation methods, parameters and data sources of water budget framework across different states
@@ -31,7 +31,7 @@ helooooooo3
 * Performed poisson regresson using a log link function to analyze the temporal effect on frequency of acute-health based violations across states.
 * Mapped the results of poisson regression to compare SDWA violations among states with respect to time
 
-<iframe width="100%" height="400" frameborder="0" scrolling="no" src="//plotly.com/~prashankpm/1.embed"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" src="//plotly.com/~prashankpm/1.embed"></iframe>
 
 ## [Project 4: Global Lung Cancer Rates](https://github.com/PierreMishra/Lung_Cancer_Rates_ENV.710)
 * Explored environmental and socio-economic variables of 152 nations from 6 separate CSVs to analyze their effects on lung cancer rates.
