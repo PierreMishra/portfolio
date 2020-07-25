@@ -1,4 +1,4 @@
-helooooooo6
+helooooooo7
 ## Project 1: Water Budget web application for the Internet of Water project (in progress)
 #### Fullstack web development (R Shiny, Javascript, HTML, CSS, SPARQL) 
 * Develop an interactive tool to visualize the relationship among different components, estimation methods, parameters and data sources of water budget framework across different states
@@ -38,7 +38,7 @@ helooooooo6
 * Developed three OLS models for all nations, high-income nations (with GDP per capita > $15,000) and low-income nations (with GDP per capita < $15,000)
 
 <p>
-  <img src="./images/cancer_1.png" align="center" height="50%" width="45%" >
+  <img src="./images/cancer_1.png" align="center" height="50%" width="50%" >
   <img src="./images/cancer_2.png" align="center" height="50%" width="50%" >
 </p>
 
