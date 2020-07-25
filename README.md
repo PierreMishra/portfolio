@@ -31,7 +31,11 @@
 * Performed poisson regresson using a log link function to analyze the temporal effect on frequency of acute-health based violations across states.
 * Mapped the results of poisson regression to compare SDWA violations among states with respect to time
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="https://plotly.com/~prashankpm/1.embed"></iframe>
+<div>
+    <a href="https://plotly.com/~prashankpm/1/?share_key=CAnWtdZSWHLvvcR8ueOG7Z" target="_blank" title="Plot 1" style="display: block; text-align: center;"><img src="https://plotly.com/~prashankpm/1.png?share_key=CAnWtdZSWHLvvcR8ueOG7Z" alt="Plot 1" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+    <script data-plotly="prashankpm:1" sharekey-plotly="CAnWtdZSWHLvvcR8ueOG7Z" src="https://plotly.com/embed.js" async></script>
+</div>
+
 
 ## [Project 4: Global Lung Cancer Rates](https://github.com/PierreMishra/Lung_Cancer_Rates_ENV.710)
 * Explored environmental and socio-economic variables of 152 nations from 6 separate CSVs to analyze their effects on lung cancer rates.
