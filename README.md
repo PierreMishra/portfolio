@@ -1,4 +1,4 @@
-helooooooo7
+helooooooo7444
 ## Project 1: Water Budget web application for the Internet of Water project (in progress)
 #### Fullstack web development (R Shiny, Javascript, HTML, CSS, SPARQL) 
 * Develop an interactive tool to visualize the relationship among different components, estimation methods, parameters and data sources of water budget framework across different states
@@ -19,7 +19,7 @@ helooooooo7
 * Layered the dams and run-off analysis as shapefiles within NC boundary to observe the spatial distribution of dams with varying risks, in sub basins with increasing or decreasing run-off trends.
 
 <p>
-  <img src="./images/dam_1.png" align="center" height="40%" width="40%" >    <img src="./images/dam_2.png" align="center" height="40%" width="40%" >
+  <img src="./images/dam_1.png" align="center" height="40%" width="40%" >  helooo  <img src="./images/dam_2.png" align="center" height="40%" width="40%" >
 </p>
 
 <img src="./images/dam_3.png" align="center" height="100%" width="100%">
@@ -39,7 +39,7 @@ helooooooo7
 
 <p>
   <img src="./images/cancer_1.png" align="center" height="50%" width="50%" >
-  <img src="./images/cancer_2.png" align="center" height="50%" width="50%" >
+  <img src="./images/cancer_2.png" align="center" height="50%" width="48%" >
 </p>
 
 ## [Project 5: Electric Vehicle Sales Forecasting](https://github.com/PierreMishra/EV_Sales_Forecasting_ENV.790)
