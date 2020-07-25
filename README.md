@@ -38,8 +38,8 @@ helooooooo7444
 * Developed three OLS models for all nations, high-income nations (with GDP per capita > $15,000) and low-income nations (with GDP per capita < $15,000)
 
 <p>
-  <img src="./images/cancer_1.png" align="center" height="50%" width="50%" >
-  <img src="./images/cancer_2.png" align="center" height="50%" width="48%" >
+  <img src="./images/cancer_1.png" align="center" height="50%" width="49%" >
+  <img src="./images/cancer_2.png" align="center" height="50%" width="49%" >
 </p>
 
 ## [Project 5: Electric Vehicle Sales Forecasting](https://github.com/PierreMishra/EV_Sales_Forecasting_ENV.790)
