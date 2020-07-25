@@ -1,11 +1,11 @@
 
-## Project 1: Water Budget web application for the Internet of Water project 
+## Project 1: Water Budget web application for the Internet of Water project (in progress)
 #### Fullstack web development (R Shiny, Javascript, HTML, CSS, SPARQL) 
 * Develop an interactive tool to visualize different components, estimation methods, parameters and data sources of water budget framework across different states
 * Query RDF databases of water budget frameworks across states using SPARQL (Structured Protocol and RDF Query Language) to feed data into the web app
 * Wrangle nested JSON file obtained through SPARQL and curated reproducible D3 interactive trees in Javascript
 * Integrate D3 visualizations by states, components and data sources based on user input into the web app using R Shiny and HTML
-* Dynamically summarize flow information of each component and link each water budget term to its unique resource identifier via hyperlink
+* Dynamically summarize flow information and inter-state relationship of each component and link each water budget term to its unique resource identifier via hyperlink
 * Stylize the webapp using Javascript and CSS
 
 <img src="./images/iow_waterbudget_gif.gif" align="center" height="100%" width="100%" >
