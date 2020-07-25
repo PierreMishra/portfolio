@@ -32,7 +32,7 @@
 
 <p>
   <img src="./images/project_2_2.png" align="center" height="40%" width="40%" >
-  <img src="./images/project_2_2.png" align="center" height="40%" width="40%" >
+  <img src="./images/project_2_1.png" align="center" height="40%" width="40%" >
 </p>
 
 ## [Project 5: Electric Vehicle Sales Forecasting](https://github.com/PierreMishra/EV_Sales_Forecasting_ENV.790)
