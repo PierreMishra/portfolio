@@ -30,6 +30,11 @@
 * Implemented ordinary least square (OLS) method to estimate the parameters of multiple linear regression models.
 * Developed three OLS models for all nations, high-income nations (with GDP per capita > $15,000) and low-income nations (with GDP per capita < $15,000)
 
+<p>
+  <img src="./images/project_2_2.png" align="center" height="40%" width="40%" >
+  <img src="./images/project_2_2.png" align="center" height="40%" width="40%" >
+</p>
+
 ## [Project 5: Electric Vehicle Sales Forecasting](https://github.com/PierreMishra/EV_Sales_Forecasting_ENV.790)
 * Used time series forecasting to analyze national targets of electric vehicle sales of the major global EV players, mainly Japan
 * Employed various forecasting models such as state-space models, ARIMA, exponential smoothing etc. to show their applicability to long-term predictions
