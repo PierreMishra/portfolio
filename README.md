@@ -29,7 +29,7 @@
 * Performed poisson regresson using a log link function to analyze the temporal effect on frequency of acute-health based violations across states.
 * Mapped the results of poisson regression to compare SDWA violations among states with respect to time
 
-<img src="./images/violation_1.png" align="center" height="100%" width="100%">
+<img src="./images/violation_1.jpg" align="center" height="100%" width="100%">
 
 <img src="./images/violation_2.png" align="center" height="100%" width="100%">
 
