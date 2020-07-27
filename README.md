@@ -17,11 +17,11 @@
 * Performed montonic trend analysis to determine the annaul run-off trends in hydrologic unit 8 (HUC-8) sub basins of NC using USGS Waterwatch dataset
 * Layered the dams and run-off analysis as shapefiles within NC boundary to observe the spatial distribution of dams with varying risks, in sub basins with increasing or decreasing run-off trends.
 
+<img src="./images/dam_3.png" align="center" height="100%" width="100%">
+
 <p>
   <img src="./images/dam_1.png" align="center" height="40%" width="40%" > <img src="./images/dam_2.png" align="center" height="40%" width="40%" >
 </p>
-
-<img src="./images/dam_3.png" align="center" height="100%" width="100%">
 
 ## [Project 3: Analyzing US Safe Drinking Water Act Violations since 1988](https://github.com/PierreMishra/Safe_Drinking_Water_Act_Violations_ENV.665)
 * Used Bayesian statisitics to study factors associated to SDWA violations and frequency of such violations in 50 states
