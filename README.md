@@ -15,7 +15,7 @@
 * Performed ordinal logistic regression on logged predictor variables to determine the effects of the structure of a dam on its classified safety hazard
 * Investigated the stream discharge trends in North Carolina (NC) to find whether increasing runoff trends pose a threat to dam structures
 * Performed montonic trend analysis to determine the annaul run-off trends in hydrologic unit 8 (HUC-8) sub basins of NC using USGS Waterwatch dataset
-* Layered the dams and run-off analysis as shapefiles within NC boundary to observe the spatial distribution of dams with varying risks, in sub basins with increasing or decreasing run-off trends.
+* Layered the dams and run-off analysis as feature layers within NC boundary to observe the spatial distribution of dams with varying risks, in sub basins with increasing or decreasing run-off trends.
 
 <img src="./images/dam_3.png" align="center" height="100%" width="100%">
 
@@ -27,7 +27,7 @@
 * Used Bayesian statisitics to study factors associated to SDWA violations and frequency of such violations in 50 states
 * Performed logsitic regression using a logit link function to investigate the effects on acute health-based violations by public water system type, number of population served by the water system and the source of water supply
 * Performed poisson regresson using a log link function to analyze the temporal effect on frequency of acute-health based violations across states.
-* Mapped the results of poisson regression to compare SDWA violations among states with respect to time
+* Mapped the results of poisson regression to compare SDWA violations trend among states
 
 <p>
   <img src="./images/violation_1.PNG" align="center" height="40%" width="40%"> <img src="./images/violation_2.png" align="center" height="58%" width="58%">
