@@ -30,7 +30,7 @@
 * Mapped the results of poisson regression to compare SDWA violations among states with respect to time
 
 <p>
-  <img src="./images/violation_1.PNG" align="center" height="50%" width="50%"> <img src="./images/violation_2.png" align="center" height="40%" width="40%">
+  <img src="./images/violation_1.PNG" align="center" height="50%" width="50%"> <img src="./images/violation_2.png" align="center" height="60%" width="60%">
 </p>
 <iframe width="100%" height="300" frameborder="0" scrolling="no" src="//plotly.com/~prashankpm/1.embed"></iframe>
 
