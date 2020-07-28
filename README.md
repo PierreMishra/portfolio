@@ -30,8 +30,10 @@
 * Mapped the results of poisson regression to compare SDWA violations among states with respect to time
 
 <p>
-  <img src="./images/violation_1.PNG" align="center" height="50%" width="50%"> <img src="./images/violation_2.png" align="center" height="60%" width="60%">
+  <img src="./images/violation_1.PNG" align="center" height="40%" width="40%"> <iframe width="100%" height="300" frameborder="0" scrolling="no" src="//plotly.com/~prashankpm/1.embed"></iframe>
 </p>
+
+<img src="./images/violation_2.png" align="center" height="60%" width="60%">
 <iframe width="100%" height="300" frameborder="0" scrolling="no" src="//plotly.com/~prashankpm/1.embed"></iframe>
 
 ## [Project 4: Global Lung Cancer Rates](https://github.com/PierreMishra/Lung_Cancer_Rates_ENV.710)
