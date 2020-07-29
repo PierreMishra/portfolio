@@ -35,7 +35,7 @@
 * Reshaped laboratory data and visualized significant results in Python
 
 <img src="./images/po_file2.png" align="center" height="100%" width="100%">
-
+<img src="./images/aryl_file1.png" align="center" height="100%" width="100%">
 <br />      
 
 
