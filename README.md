@@ -23,7 +23,15 @@
   <img src="./images/dam_1.png" align="center" height="40%" width="40%" > <img src="./images/dam_2.png" align="center" height="40%" width="40%" >
 </p>
 
-## Project 3: Analyzing US Safe Drinking Water Act Violations since 1988
+## Project 3: Effect of silver nanoparticles on soil enzymes
+#### Data visualization, ANOVA | 
+* Conducted laboratory assays of soil enzymes on over 200 samples at different times to study the impact of nanoparticles of varying concentrations, sizes and coatings
+* Interpreted 180 pages of results of multilevel ANOVA models generated using SAS  
+* Reshaped laboratory data and visualized significant results in Python
+
+<img src="./po_file2.png
+
+## Project 4: Analyzing US Safe Drinking Water Act Violations since 1988
 #### Bayesian inference, logistic regression, poisson regression | R | [Link](https://github.com/PierreMishra/Safe_Drinking_Water_Act_Violations_ENV.665)
 * Used Bayesian statisitics to study factors associated to SDWA violations and frequency of such violations in 50 states
 * Performed logsitic regression using a logit link function to investigate the effects on acute health-based violations by public water system type, number of population served by the water system and the source of water supply
