@@ -8,6 +8,7 @@
 * Stylize the webapp using Javascript and CSS
 
 <img src="./images/iow_waterbudget_gif.gif" align="center" height="100%" width="100%" >
+
 <br />      
 
 
@@ -36,6 +37,7 @@
 
 <img src="./images/po_file2.png" align="center" height="100%" width="100%">
 <img src="./images/aryl_file1.png" align="center" height="100%" width="100%">
+
 <br />      
 
 
