@@ -9,12 +9,9 @@
 
 <img src="./images/iow_waterbudget_gif.gif" align="center" height="100%" width="100%" >
 <br />      
-<br />      
-<br />     
-<br />      
-<br />     
-<br />     
-<br />     
+<br />       
+
+
 ## Project 2: US Dam Safety & HUC-8 Runoff
 #### Ordinal logistic regression, trend analysis, geospatial analysis | R | [Link](https://github.com/PierreMishra/US_Dam_Safety_ENV.872)
 * Explored physical features for 90,000 dams that can predict dam safety using National Inventory of Dams dataset by US Army Corps
