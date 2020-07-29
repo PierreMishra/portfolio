@@ -29,7 +29,7 @@
 * Interpreted 180 page results of multilevel ANOVA models applied on laboratory data generated using SAS  
 * Reshaped laboratory data and visualized significant results in Python
 
-<img src="./po_file2.png">
+<img src="./images/po_file2.PNG">
 
 ## Project 4: Analyzing US Safe Drinking Water Act Violations since 1988
 #### Bayesian inference, logistic regression, poisson regression | R | [Link](https://github.com/PierreMishra/Safe_Drinking_Water_Act_Violations_ENV.665)
