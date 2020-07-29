@@ -9,7 +9,6 @@
 
 <img src="./images/iow_waterbudget_gif.gif" align="center" height="100%" width="100%" >
 <br />      
-<br />       
 
 
 ## Project 2: US Dam Safety & HUC-8 Runoff
@@ -26,6 +25,9 @@
   <img src="./images/dam_1.png" align="center" height="40%" width="40%" > <img src="./images/dam_2.png" align="center" height="40%" width="40%" >
 </p>
 
+<br />      
+
+
 ## Project 3: Effect of silver nanoparticles on soil enzymes
 #### Data visualization, ANOVA | Python
 * Conducted laboratory assays of soil enzymes on over 200 samples at different times intervals to study the impact of nanoparticles of varying concentrations, sizes and coatings
@@ -33,6 +35,9 @@
 * Reshaped laboratory data and visualized significant results in Python
 
 <img src="./images/po_file2.png" align="center" height="90%" width="90%">
+
+<br />      
+
 
 ## Project 4: Analyzing US Safe Drinking Water Act Violations since 1988
 #### Bayesian inference, logistic regression, poisson regression | R | [Link](https://github.com/PierreMishra/Safe_Drinking_Water_Act_Violations_ENV.665)
@@ -46,6 +51,9 @@
 </p>
 <iframe width="100%" height="300" frameborder="0" scrolling="no" src="//plotly.com/~prashankpm/1.embed"></iframe>
 
+<br />      
+
+
 ## Project 4: Global Lung Cancer Rates
 #### Multiple Linear Regression | R | [Link](https://github.com/PierreMishra/Lung_Cancer_Rates_ENV.710)
 * Explored environmental and socio-economic variables of 152 nations from 6 separate CSVs to analyze their effects on lung cancer rates.
@@ -56,6 +64,9 @@
   <img src="./images/cancer_1.png" align="center" height="50%" width="49%" >
   <img src="./images/cancer_2.png" align="center" height="50%" width="49%" >
 </p>
+
+<br />      
+
 
 ## Project 5: Electric Vehicle Sales Forecasting 
 #### Time-Series Forecasting | R | [Link](https://github.com/PierreMishra/EV_Sales_Forecasting_ENV.790)
