@@ -34,7 +34,7 @@
 * Interpreted 180 page results of multilevel ANOVA models applied on laboratory data generated using SAS  
 * Reshaped laboratory data and visualized significant results in Python
 
-<img src="./images/po_file2.png" align="center" height="90%" width="90%">
+<img src="./images/po_file2.png" align="center" height="100%" width="100%">
 
 <br />      
 
