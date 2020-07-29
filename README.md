@@ -8,8 +8,13 @@
 * Stylize the webapp using Javascript and CSS
 
 <img src="./images/iow_waterbudget_gif.gif" align="center" height="100%" width="100%" >
-
-
+<br />      
+<br />      
+<br />     
+<br />      
+<br />     
+<br />     
+<br />     
 ## Project 2: US Dam Safety & HUC-8 Runoff
 #### Ordinal logistic regression, trend analysis, geospatial analysis | R | [Link](https://github.com/PierreMishra/US_Dam_Safety_ENV.872)
 * Explored physical features for 90,000 dams that can predict dam safety using National Inventory of Dams dataset by US Army Corps
@@ -24,16 +29,13 @@
   <img src="./images/dam_1.png" align="center" height="40%" width="40%" > <img src="./images/dam_2.png" align="center" height="40%" width="40%" >
 </p>
 
-
 ## Project 3: Effect of silver nanoparticles on soil enzymes
 #### Data visualization, ANOVA | Python
 * Conducted laboratory assays of soil enzymes on over 200 samples at different times intervals to study the impact of nanoparticles of varying concentrations, sizes and coatings
 * Interpreted 180 page results of multilevel ANOVA models applied on laboratory data generated using SAS  
 * Reshaped laboratory data and visualized significant results in Python
 
-<img src="./images/po_file2.png" align="center" height="80%" width="80%">
-
-
+<img src="./images/po_file2.png" align="center" height="90%" width="90%">
 
 ## Project 4: Analyzing US Safe Drinking Water Act Violations since 1988
 #### Bayesian inference, logistic regression, poisson regression | R | [Link](https://github.com/PierreMishra/Safe_Drinking_Water_Act_Violations_ENV.665)
@@ -46,11 +48,6 @@
   <img src="./images/violation_1.PNG" align="center" height="40%" width="40%"> <img src="./images/violation_2.png" align="center" height="58%" width="58%">
 </p>
 <iframe width="100%" height="300" frameborder="0" scrolling="no" src="//plotly.com/~prashankpm/1.embed"></iframe>
-
-
-
-
-
 
 ## Project 4: Global Lung Cancer Rates
 #### Multiple Linear Regression | R | [Link](https://github.com/PierreMishra/Lung_Cancer_Rates_ENV.710)
