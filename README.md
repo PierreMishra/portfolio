@@ -29,7 +29,22 @@
 <br />      
 
 
-## Project 3: Effect of silver nanoparticles on soil enzymes (study under review)
+## Project 3: Analyzing US Safe Drinking Water Act Violations since 1988
+#### Bayesian inference, logistic regression, poisson regression | R | [Link](https://github.com/PierreMishra/Safe_Drinking_Water_Act_Violations_ENV.665)
+* Used Bayesian statisitics to study factors associated to SDWA violations and frequency of such violations in 50 states
+* Performed logsitic regression using a logit link function to investigate the effects on acute health-based violations by public water system type, number of population served by the water system and the source of water supply
+* Performed poisson regresson using a log link function to analyze the temporal effect on frequency of acute-health based violations across states.
+* Mapped the results of poisson regression to compare SDWA violations trend among states
+
+<p>
+  <img src="./images/violation_1.PNG" align="center" height="40%" width="40%"> <img src="./images/violation_2.png" align="center" height="58%" width="58%">
+</p>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" src="//plotly.com/~prashankpm/1.embed"></iframe>
+
+<br />      
+
+
+## Project 4: Effect of silver nanoparticles on soil enzymes (study under review)
 #### Data visualization, ANOVA | Python
 * Conducted laboratory assays of soil enzymes on over 200 samples at different times intervals to study the impact of nanoparticles of varying concentrations, sizes and coatings
 * Interpreted 180 page results of multilevel ANOVA models applied on laboratory data generated using SAS  
@@ -43,20 +58,6 @@
 
 <br />      
 
-
-## Project 4: Analyzing US Safe Drinking Water Act Violations since 1988
-#### Bayesian inference, logistic regression, poisson regression | R | [Link](https://github.com/PierreMishra/Safe_Drinking_Water_Act_Violations_ENV.665)
-* Used Bayesian statisitics to study factors associated to SDWA violations and frequency of such violations in 50 states
-* Performed logsitic regression using a logit link function to investigate the effects on acute health-based violations by public water system type, number of population served by the water system and the source of water supply
-* Performed poisson regresson using a log link function to analyze the temporal effect on frequency of acute-health based violations across states.
-* Mapped the results of poisson regression to compare SDWA violations trend among states
-
-<p>
-  <img src="./images/violation_1.PNG" align="center" height="40%" width="40%"> <img src="./images/violation_2.png" align="center" height="58%" width="58%">
-</p>
-<iframe width="100%" height="300" frameborder="0" scrolling="no" src="//plotly.com/~prashankpm/1.embed"></iframe>
-
-<br />      
 
 
 ## Project 4: Global Lung Cancer Rates
