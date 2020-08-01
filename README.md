@@ -17,7 +17,7 @@
 * Explored physical features for 90,000 dams that can predict dam safety using National Inventory of Dams dataset by US Army Corps
 * Performed ordinal logistic regression on logged predictor variables to determine the effects of the structure of a dam on its classified safety hazard
 * Investigated the stream discharge trends in North Carolina (NC) to find whether increasing runoff trends pose a threat to dam structures
-* Performed montonic trend analysis to determine the annaul run-off trends in hydrologic unit 8 (HUC-8) sub basins of NC using USGS Waterwatch dataset
+* Performed montonic trend analysis to determine the annual run-off trends in hydrologic unit 8 (HUC-8) sub basins of NC using USGS Waterwatch dataset
 * Layered the dams and run-off analysis as feature layers within NC boundary to observe the spatial distribution of dams with varying risks, in sub basins with increasing or decreasing run-off trends.
 
 <img src="./images/dam_3.png" align="center" height="100%" width="100%">
