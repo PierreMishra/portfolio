@@ -44,7 +44,7 @@
 <br />      
 
 
-## Project 4: Effect of silver nanoparticles on soil enzymes (approved for publication)
+## Project 4: Effect of silver nanoparticles on soil enzymes (accepted for publication)
 #### Data visualization, ANOVA | Python
 * Conducted laboratory assays of soil enzymes on over 200 samples at different times intervals to study the impact of nanoparticles of varying concentrations, sizes and coatings
 * Interpreted 180 page results of multilevel ANOVA models applied on laboratory data generated using SAS  
