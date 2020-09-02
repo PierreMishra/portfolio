@@ -49,7 +49,7 @@
 * Conducted laboratory assays of soil enzymes on over 200 samples at different times intervals to study the impact of nanoparticles of varying concentrations, sizes and coatings
 * Interpreted 180 page results of multilevel ANOVA models generated using SAS on laboratory data   
 * Reshaped laboratory data and visualized significant results in Python
-* Research was published in Geoderma journal. It is available [online](https://www.sciencedirect.com/science/article/pii/S0016706120314518?dgcid=author) on Elsevier's ScienceDirect platform.
+* Research was published in Geoderma journal. It is available <a href="https://www.sciencedirect.com/science/article/pii/S0016706120314518?dgcid=author" target="_blank"> online </a> on Elsevier's ScienceDirect platform.
 
 <img src="./images/po_file2.png" align="center" height="100%" width="100%">
 
