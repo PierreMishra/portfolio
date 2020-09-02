@@ -1,4 +1,4 @@
-## Project 1: Water Budget web application (in progress)
+## Project 1: Water Budget Navigator (in progress)
 #### Web app development | R Shiny, Javascript, HTML, CSS, SPARQL  
 * Develop an interactive tool for Internet of Water to visualize the relationship among different components, estimation methods, parameters and data sources of water budget framework across different states
 * Query RDF databases of water budget frameworks across states using SPARQL (Structured Protocol and RDF Query Language) to feed data into the web app
@@ -44,11 +44,12 @@
 <br />      
 
 
-## Project 4: Effect of silver nanoparticles on soil enzymes (accepted for publication)
+## Project 4: Effect of silver nanoparticles on soil enzymes (Published in 2020)
 #### Data visualization, ANOVA | Python
 * Conducted laboratory assays of soil enzymes on over 200 samples at different times intervals to study the impact of nanoparticles of varying concentrations, sizes and coatings
-* Interpreted 180 page results of multilevel ANOVA models applied on laboratory data generated using SAS  
+* Interpreted 180 page results of multilevel ANOVA models generated using SAS on laboratory data   
 * Reshaped laboratory data and visualized significant results in Python
+* Research was published in Geoderma journal. It is available [online](https://www.sciencedirect.com/science/article/pii/S0016706120314518?dgcid=author) on Elsevier's ScienceDirect platform.
 
 <img src="./images/po_file2.png" align="center" height="100%" width="100%">
 
