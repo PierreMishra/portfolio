@@ -78,7 +78,7 @@
 ## Project 5: Electric Vehicle Sales Forecasting 
 #### Time-Series Analysis | R | [Link](https://github.com/PierreMishra/EV_Sales_Forecasting_ENV.790)
 * Used time series forecasting to analyze national targets of electric vehicle sales of the major global EV players, China, Japan and France
-* Employed various forecasting models such as state-space models, ARIMA, exponential smoothing etc. to show their applicability in long-term predictions
+* Employed various forecasting models such as state-space models, ARIMA, exponential smoothing etc. to assess their applicability in long-term predictions
 
 <p>
   <img src="./images/ev_1.jpeg" align="center" height="50%" width="49%" >
