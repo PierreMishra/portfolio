@@ -1,3 +1,18 @@
+## Watershed-Stream Delineation Tool
+#### Advanced GIS | ArcGIS Pro, Python, ArcPy
+* Delineates watersheds and streams using Digital Elevation Model (DEM) raster(s) and outlet point(s) provided as an input in ArcGIS Pro
+* Allows two ways to input outlet point(s) 1) user can load their own shapefile containing point feature(s) or 2) user can select point(s) on any base map (for reference) using the pencil tool next to drop down button
+* Combines rasters and projects to a uniform spatial reference if multiple DEM(s) are provided by the user
+* Provides progress status in realtime when the tool is running
+
+<img src="./images/testRun.PNG" align="center" height="100%" width="100%" >
+
+<p>
+<img src="./images/progress.PNG" align="center" height="100%" width="100%" > <img src="./images/parameters.PNG" align="center" height="100%" width="100%" >
+</p>
+
+<br />
+
 ## Project 1: Water Budget Navigator (in progress)
 #### Web app development | R Shiny, Javascript, HTML, CSS, SPARQL  
 * Develop an interactive tool for Internet of Water to visualize the relationship among different components, estimation methods, parameters and data sources of water budget framework across different states
