@@ -1,4 +1,4 @@
-## Watershed-Stream Delineation Tool
+## Watershed & Stream Delineation Tool
 #### Advanced GIS | ArcGIS Pro, Python, ArcPy
 * Delineates watersheds and streams using Digital Elevation Model (DEM) raster(s) and outlet point(s) provided as an input in ArcGIS Pro
 * Allows two ways to input outlet point(s); 1) user can load their own shapefile containing point feature(s) or 2) user can select point(s) on any base map (for reference) using the pencil tool next to drop down button
@@ -13,7 +13,7 @@
 
 <br />
 
-## Project 1: Water Budget Navigator (in progress)
+## Water Budget Navigator (in progress)
 #### Web app development | R Shiny, Javascript, HTML, CSS, SPARQL  
 * Develop an interactive tool for Internet of Water to visualize the relationship among different components, estimation methods, parameters and data sources of water budget framework across different states
 * Query RDF databases of water budget frameworks across states using SPARQL (Structured Protocol and RDF Query Language) to feed data into the web app
@@ -27,7 +27,7 @@
 <br />      
 
 
-## Project 2: US Dam Safety & HUC-8 Runoff
+## US Dam Safety & Runoff Trends
 #### Ordinal logistic regression, trend analysis, geospatial analysis | R | [Link](https://github.com/PierreMishra/US_Dam_Safety_ENV.872)
 * Explored physical features for 90,000 dams that can predict dam safety using National Inventory of Dams dataset by US Army Corps
 * Performed ordinal logistic regression on logged predictor variables to determine the effects of the structure of a dam on its classified safety hazard
@@ -44,7 +44,7 @@
 <br />      
 
 
-## Project 3: Analyzing US Safe Drinking Water Act Violations since 1988
+## Analyzing US Safe Drinking Water Act Violations since 1988
 #### Bayesian inference, logistic regression, poisson regression | R | [Link](https://github.com/PierreMishra/Safe_Drinking_Water_Act_Violations_ENV.665)
 * Used Bayesian statisitics to study factors associated to SDWA violations and frequency of such violations in 50 states
 * Performed logsitic regression using a logit link function to investigate the effects on acute health-based violations by public water system type, number of population served by the water system and the source of water supply
@@ -59,7 +59,7 @@
 <br />      
 
 
-## Project 4: Effect of silver nanoparticles on soil enzymes (Published in 2020)
+## Effect of silver nanoparticles on soil enzymes (Published in 2020)
 #### Data visualization, ANOVA | Python
 * Conducted laboratory assays of soil enzymes on over 200 samples at different times intervals to study the impact of nanoparticles of varying concentrations, sizes and coatings
 * Interpreted 180 page results of multilevel ANOVA models generated using SAS on laboratory data   
@@ -76,7 +76,7 @@
 
 
 
-## Project 4: Global Lung Cancer Rates
+## Global Lung Cancer Rates
 #### Multiple Linear Regression | R | [Link](https://github.com/PierreMishra/Lung_Cancer_Rates_ENV.710)
 * Explored environmental and socio-economic variables of 152 nations from 6 separate CSVs to analyze their effects on lung cancer rates.
 * Implemented ordinary least square (OLS) method to estimate the parameters of multiple linear regression models.
@@ -90,7 +90,7 @@
 <br />      
 
 
-## Project 5: Electric Vehicle Sales Forecasting 
+## Electric Vehicle Sales Forecasting 
 #### Time-Series Analysis | R | [Link](https://github.com/PierreMishra/EV_Sales_Forecasting_ENV.790)
 * Used time series forecasting to analyze national targets of electric vehicle sales of the major global EV players, China, Japan and France
 * Employed various forecasting models such as state-space models, ARIMA, exponential smoothing etc. to assess their applicability in long-term predictions
