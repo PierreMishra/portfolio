@@ -1,14 +1,14 @@
 ## Watershed-Stream Delineation Tool
 #### Advanced GIS | ArcGIS Pro, Python, ArcPy
 * Delineates watersheds and streams using Digital Elevation Model (DEM) raster(s) and outlet point(s) provided as an input in ArcGIS Pro
-* Allows two ways to input outlet point(s) 1) user can load their own shapefile containing point feature(s) or 2) user can select point(s) on any base map (for reference) using the pencil tool next to drop down button
-* Combines rasters and projects to a uniform spatial reference if multiple DEM(s) are provided by the user
+* Allows two ways to input outlet point(s); 1) user can load their own shapefile containing point feature(s) or 2) user can select point(s) on any base map (for reference) using the pencil tool next to drop down button
+* Combines rasters and projects them to a uniform spatial reference if multiple DEM(s) are provided by the user
 * Provides progress status in realtime when the tool is running
 
 <img src="./images/testRun.PNG" align="center" height="100%" width="100%" >
 
 <p>
-<img src="./images/progress.PNG" align="center" height="100%" width="100%" > <img src="./images/parameters.PNG" align="center" height="100%" width="100%" >
+<img src="./images/progress.PNG" align="center" height="48%" width="48%" > <img src="./images/parameters.PNG" align="center" height="48%" width="48%" >
 </p>
 
 <br />
