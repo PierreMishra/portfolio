@@ -14,13 +14,13 @@
 <br />
 
 ## Water Budget Navigator (in progress)
-#### Web app development | R Shiny, Javascript, HTML, CSS, SPARQL | [Link](https://internetofwater.shinyapps.io/WaterBudgetNavigator/) 
+#### Web app development | R Shiny, JavaScript, HTML, CSS, SPARQL | [Link](https://internetofwater.shinyapps.io/WaterBudgetNavigator/) 
 * Develop an interactive tool for Internet of Water to visualize the relationship among different components, estimation methods, parameters and data sources of water budget framework across different states
 * Query RDF databases of water budget frameworks across states using SPARQL (Structured Protocol and RDF Query Language) to feed data into the web app
-* Wrangle nested JSON file obtained through SPARQL and curate reproducible D3 interactive trees in Javascript
-* Output D3 visualizations by states, components and data sources based on user input into the web app using R Shiny and HTML
+* Wrangle nested JSON file obtained through SPARQL and curate reproducible D3 interactive visualizations in JavaScript
+* Output D3.js visualizations by states, components and data sources based on user input using R Shiny and HTML
 * Dynamically summarize flow information and inter-state relationship of each component and link each water budget term to its unique resource identifier via hyperlink
-* Stylize the webapp using Javascript and CSS
+* Stylize the webapp using JavaScript and CSS
 
 <img src="./images/iow_waterbudget_gif.gif" align="center" height="100%" width="100%" >
 
