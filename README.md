@@ -29,7 +29,7 @@ This tool,
 <br />      
 
 ## Climate Diagnostics and Probablistic Streamflow Forecasts
-#### K-Nearest Neighbours (KNN), autoregressive analysis, 'abcd' watershed model, SWAT model, model evaluation, flow duration curves
+#### K-Nearest Neighbours (KNN), autoregressive analysis, watershed models, model evaluation, flow duration curves | Python, ArcGIS
 * Applied lumped watershed and SWAT models to forecast streamflow
 * Developed regression models to forecast the seasonal mean flow for the peak flow and low seasons by using Nino3.4 and the observed flow in the previous season as predictors
 * Obtained flow duration curves and probabilistic streamflow forecasts using AR(1) model and KNN model with Mahalanobis Distance
