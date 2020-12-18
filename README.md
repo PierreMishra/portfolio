@@ -20,13 +20,29 @@ This tool,
 * Query RDF databases of water budget frameworks using SPARQL (Structured Protocol and RDF Query Language) to feed data into the web app
 * Wrangle nested JSON file obtained through SPARQL and curate reproducible D3 interactive visualizations in JavaScript
 * Output D3.js visualizations by states, components and data sources based on user input using R Shiny and HTML
-* Dynamically summarize flow information and inter-state relationship of each component and link each water budget term to its unique resource identifier via hyperlink
+* Dynamically summarize flow information and inter-state relationship of each component 
+* Link each water budget term in the dynamic output to its unique resource identifier via hyperlink
 * Stylize the webapp using JavaScript and CSS
 
 <img src="./images/iow_waterbudget_gif.gif" align="center" height="100%" width="100%" >
 
 <br />      
 
+## Climate Diagnostics and Probablistic Streamflow Forecasts
+#### K-Nearest Neighbours (KNN), autoregressive analysis, 'abcd' watershed model, SWAT model, model evaluation, flow duration curves
+* Applied lumped watershed and SWAT models to forecast streamflow
+* Developed regression models to forecast the seasonal mean flow for the peak flow and low seasons by using Nino3.4 and the observed flow in the previous season as predictors
+* Obtained flow duration curves and probabilistic streamflow forecasts using AR(1) model and KNN model with Mahalanobis Distance
+* Performed model calibration and validation and evaluated model performances
+* Generated climate elasticity heatmaps for monthly flow forecasts
+
+<img src="./images/hydrology_1.png" align="center" height="49.5%" width="49.5%">
+
+<p>
+  <img src="./images/hydrology_2.png" align="center" height="49.5%" width="49.5%" > <img src="./images/hydrology_3.png" align="center" height="40%" width="40%" >
+</p>
+
+<br />
 
 ## US Dam Safety & Runoff Trends
 #### Ordinal logistic regression, trend analysis, geospatial analysis | R | [Link](https://github.com/PierreMishra/US_Dam_Safety_ENV.872)
