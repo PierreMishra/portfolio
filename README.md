@@ -94,9 +94,9 @@ This tool,
 
 
 ## Global Lung Cancer Rates
-#### Multiple Linear Regression | R | [Link](https://github.com/PierreMishra/Lung_Cancer_Rates_ENV.710)
-* Explored environmental and socio-economic variables of 152 nations from 6 separate CSVs to analyze their effects on lung cancer rates.
-* Implemented ordinary least square (OLS) method to estimate the parameters of multiple linear regression models.
+#### Multiple Linear Regression | R | [Link](https://github.com/PierreMishra/Lung_Cancer_Rates_ENV.710) 
+* Performed data wrangling on 6 CSV files to explore environmental and socio-economic variables of 152 nations and their lung cancer rates
+* Implemented ordinary least square (OLS) method to estimate the parameters of multiple linear regression models
 * Developed three OLS models for all nations, high-income nations (with GDP per capita > $15,000) and low-income nations (with GDP per capita < $15,000)
 
 <p>
