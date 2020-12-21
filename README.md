@@ -39,7 +39,7 @@ This tool,
 <img src="./images/hydrology_1.png" align="center" height="68%" width="68%">
 
 <p>
-  <img src="./images/hydrology_3.png" align="center" height="40%" width="40%" > <img src="./images/hydrology_2.png" align="center" height="58%" width="58%" >
+  <img src="./images/hydrology_2.png" align="center" height="58%" width="58%" > <img src="./images/hydrology_3.png" align="center" height="40%" width="40%" > 
 </p>
 
 <br />
