@@ -36,10 +36,10 @@ This tool,
 * Performed model calibration and validation and evaluated model performances
 * Generated climate elasticity heatmaps for monthly flow forecasts
 
-<img src="./images/hydrology_1.png" align="center" height="49.5%" width="49.5%">
+<img src="./images/hydrology_1.png" align="center" height="75" width="57">
 
 <p>
-  <img src="./images/hydrology_2.png" align="center" height="49.5%" width="49.5%" > <img src="./images/hydrology_3.png" align="center" height="40%" width="40%" >
+  <img src="./images/hydrology_3.png" align="center" height="40%" width="40%" > <img src="./images/hydrology_2.png" align="center" height="58%" width="58%" >
 </p>
 
 <br />
