@@ -34,7 +34,7 @@ This tool,
 * Developed regression models to forecast the seasonal mean flow for the peak flow and low seasons by using Nino3.4 and the observed flow in the previous season as predictors
 * Obtained flow duration curves and probabilistic streamflow forecasts using AR(1) model and KNN model with Mahalanobis Distance
 * Performed model calibration and validation and evaluated model performances
-* Generated climate elasticity heatmaps for monthly flow forecasts
+* Generated 12 climate elasticity heatmaps for monthly flow forecasts using Python functions
 
 <img src="./images/hydrology_1.png" align="center" height="68%" width="68%">
 
